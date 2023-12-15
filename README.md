@@ -1,4 +1,4 @@
-# Project Proposal: Sudoku Game and Solver in C++ 
+# Project Proposal: Sudoku Game and Solver in C++  
 
 Sudoku Game:
 1. Create an interactive Sudoku game with a command line interface (CLI).
